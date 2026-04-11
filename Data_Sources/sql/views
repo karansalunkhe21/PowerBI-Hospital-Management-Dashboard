@@ -6,11 +6,7 @@
 -- View 1: Patient Info (full patient + doctor + billing join)
 -- ------------------------------------------------------------
 
-
-
-
-CREATE 
-    ALGORITHM = UNDEFINED 
+CREATE ALGORITHM = UNDEFINED 
     DEFINER = `root`@`localhost` 
     SQL SECURITY DEFINER
 VIEW `patient_info` AS
