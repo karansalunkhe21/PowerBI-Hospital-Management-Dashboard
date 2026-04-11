@@ -47,11 +47,6 @@ Utilized Figma-designed backgrounds to ensure a professional, clean interface. T
 * **Overview:** Real-time hospital "pulse."
 * **Finance:** Revenue vs. Expenses.
 
-## 📂 Project Structure
-* `/Data/`: Sample SQL scripts for database setup.
-* `/Backgrounds/`: Figma-exported image assets.
-* `/Project/`: The `.pbix` Power BI file.
-
 ## 💡 How to Use
 1.  Import the provided SQL script into your **MySQL Workbench**.
 2.  Open the `.pbix` file in **Power BI Desktop**.
