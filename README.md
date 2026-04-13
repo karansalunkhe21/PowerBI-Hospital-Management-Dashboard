@@ -288,9 +288,9 @@ The project uses **16 Excel sheets** and a **MySQL database** covering:
 ## 📬 Contact
 
 **Your Name**
-📧 your.email@email.com
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)
-🐙 [GitHub](https://github.com/your-username)
+📧 karansalunkhe804@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/karansalunkhe804/)
+🐙 [GitHub]()
 
 > *This project was built as part of a hands-on Power BI learning series. If you found this helpful or have suggestions, feel free to open an issue or connect on LinkedIn!*
 
