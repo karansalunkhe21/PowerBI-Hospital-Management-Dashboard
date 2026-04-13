@@ -33,15 +33,15 @@ The dashboard enables hospital administrators to:
 
 | Home Page | Overview |
 |-----------|----------|
-| ![Home](assets/screenshots/home_page.png) | ![Overview](assets/screenshots/overview_page.png) |
+| ![Home](screenshots/home_page.png) | ![Overview](assets/screenshots/overview_page.png) |
 
 | Patient Page | Doctor Page |
 |-------------|-------------|
-| ![Patient](assets/screenshots/patient_page.png) | ![Doctor](assets/screenshots/doctor_page.png) |
+| ![Patient](Screenshots/patient.png) | ![Doctor](assets/screenshots/doctor_page.png) |
 
 | Hospital Operations | Finance & Inventory |
 |--------------------|---------------------|
-| ![Hospital](assets/screenshots/hospital_ops_page.png) | ![Finance](assets/screenshots/finance_page.png) |
+| ![Hospital](Screenshots/hospital_page.png) | ![Finance](assets/screenshots/finance_page.png) |
 
 > 📽️ **[Watch the Full Dashboard Walkthrough →](#)** *(Add your Loom link here)*
 
@@ -58,7 +58,7 @@ PowerBI-Hospital-Management-Dashboard/
 │   ├── Hospital_Management_Dashboard.pbix     ← Main Power BI file
 │   └── Hospital_Management_Dashboard.pdf      ← Exported PDF (view without Power BI)
 │
-├── 📁 data/
+├── 📁 Data_Sources/
 │   ├── raw/                                   ← 16 source Excel sheets
 │   │   ├── patients.xlsx
 │   │   ├── doctors.xlsx
@@ -68,24 +68,17 @@ PowerBI-Hospital-Management-Dashboard/
 │   │   ├── beds.xlsx
 │   │   └── ... (remaining sheets)
 │   ├── sql/                                   ← MySQL scripts
-│   │   ├── create_tables.sql
-│   │   ├── bed_room_join_query.sql
-│   │   └── data_queries.sql
-│   └── sample/                                ← Anonymized sample data
-│       └── sample_data.xlsx
-│
-├── 🎨 assets/
-│   ├── figma/                                 ← Design source files
-│   │   ├── dashboard_design.fig
-│   │   └── background_exports/
-│   ├── icons/                                 ← Custom icons used in KPI cards
-│   └── screenshots/                           ← Dashboard page screenshots
-│       ├── home_page.png
-│       ├── overview_page.png
-│       ├── patient_page.png
-│       ├── doctor_page.png
-│       ├── hospital_ops_page.png
-│       └── finance_page.png
+│   │   ├── hospital_db.sql
+│   │   ├── views.sql
+│   
+├── 🎨 Screenshots/                      ← Dashboard page screenshots
+│   ├── home_page.png                              
+│   ├── overview_page.png
+│   ├── patient_page.png
+│   ├── doctor_page.png
+│   ├── hospital_ops_page.png
+│   └── finance_page.png
+│     
 │
 ├── 📄 docs/
 │   ├── data_dictionary.md                     ← Column definitions for all tables
