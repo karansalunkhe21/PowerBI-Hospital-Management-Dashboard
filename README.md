@@ -37,13 +37,12 @@ The dashboard enables hospital administrators to:
 
 | Patient Page | Doctor Page |
 |-------------|-------------|
-| ![Patient](Screenshots/patient.png) | ![Doctor](assets/screenshots/doctor_page.png) |
+| ![Patient](Screenshots/Patient.png) | ![Doctor](Screenshots/Doctor.png) |
 
 | Hospital Operations | Finance & Inventory |
 |--------------------|---------------------|
 | ![Hospital](Screenshots/hospital_page.png) | ![Finance](assets/screenshots/finance_page.png) |
 
-> 📽️ **[Watch the Full Dashboard Walkthrough →](#)** *(Add your Loom link here)*
 
 <br>
 
