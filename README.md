@@ -33,7 +33,7 @@ The dashboard enables hospital administrators to:
 
 | Home Page | Overview |
 |-----------|----------|
-| ![Home](screenshots/Home.png) | ![Overview](screenshots/Overview.png) |
+| ![Home](Screenshots/Home.png) | ![Overview](Screenshots/Overview.png) |
 
 | Patient Page | Doctor Page |
 |-------------|-------------|
@@ -41,7 +41,7 @@ The dashboard enables hospital administrators to:
 
 | Hospital Operations | Finance & Inventory |
 |--------------------|---------------------|
-| ![Hospital](Screenshots/Hospital.png) | ![Finance](screenshots/Finance.png) |
+| ![Hospital](Screenshots/Hospital.png) | ![Finance](Screenshots/Finance.png) |
 
 
 <br>
